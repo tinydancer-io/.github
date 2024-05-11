@@ -18,12 +18,13 @@ We are currently working to describe the spec to add these to the validator and 
 be able to use these methods to verify at various levels.
 
 **You can find our proposals here:**
-- [ ] [SIMD-64: Transaction Receipts](https://github.com/solana-foundation/solana-improvement-documents/64)
+- [x] [SIMD-64: Transaction Receipts](https://github.com/solana-foundation/solana-improvement-documents/64)
 - [ ] [SIMD-52: Add Receipt Root to Bankhash](https://github.com/solana-foundation/solana-improvement-documents/52)
 - [ ] [SIMD-54: Sysvar for Active Stake](https://github.com/solana-foundation/solana-improvement-documents/54)
 
 **Active Repositories**
 - [SPV-Validator](https://github.com/tinydancer-io/solana-validator/tree/anoushk1234/receipt-tree)
+- [SPV-Geyser-Plugin](https://github.com/tinydancer-io/solana-spv-plugin)
 - [SIMD](https://github.com/tinydancer-io/solana-improvement-documents)
 
 **Experimental Work:**
